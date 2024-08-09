@@ -14,12 +14,11 @@ class GetStarted extends StatelessWidget {
         width: size.width,
         height: size.height,
         color: Colors.red,
-        child: Center(
-            child: Column(
+        child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [],
-        )),
+        ),
       ),
     );
   }
